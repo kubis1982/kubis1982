@@ -1,6 +1,6 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
-# Hi there, I'm kubis1982 👋
+# Hi there, I'm Kubis 👋
 
 ## 🚀 About Me
 I'm a passionate developer who loves building innovative solutions and exploring new technologies.
